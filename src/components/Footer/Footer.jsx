@@ -77,10 +77,10 @@ const Footer = () => {
                   </h1>
                   {/* <ul className="list-disc list-inside"> */}
                   <ul className="flex flex-col gap-3">
-                    <li className="cursor-pointer">Home</li>
-                    <li className="cursor-pointer">About</li>
-                    <li className="cursor-pointer">Services</li>
-                    <li className="cursor-pointer">Login</li>
+                    <li className="cursor-pointer">Download</li>
+                    <li className="cursor-pointer">FAQ</li>
+                    <li className="cursor-pointer">Careers</li>
+                    <li className="cursor-pointer">Affiliates</li>
                   </ul>
                 </div>
               </div>
